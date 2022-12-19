@@ -11,11 +11,14 @@ Time needed: 5 minutes.
 
 # Installed Libraries
 from keras.models import load_model
-from tkinter import *
-import tkinter as tk
-import win32gui
+
+tkinter 
+
+win32gui
+
 from PIL import ImageGrab, Image
-import numpy as np
+
+numpy 
 
 
 
